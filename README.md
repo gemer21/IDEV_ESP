@@ -68,11 +68,12 @@ feature list:
   - Recoil control 
 
 * How to use
-  - Install Unzip in Termux 'pkg install unzip'
-  - Clone 'https://github.com/gemer21/IDEV_ESP.git' on termux
-  - type 'cd IDEV_ESP' enter
-  - type 'unzip IDEV_ESP.zip' enter
-  - cat Key.txt and copy key on list
+  - Install Unzip in Termux > type pkg install unzip enter 
+  - Install git in Termux > type pkg install git enter 
+  - git clone https://github.com/gemer21/IDEV_ESP.git on termux
+  - > type cd IDEV_ESP enter
+  - > type unzip IDEV_ESP.zip enter
+  - > cat Key.txt and copy key on list
   - chmod +x IDEV.sh
   - ./IDEV.sh
 
